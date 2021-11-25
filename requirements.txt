@@ -1,0 +1,5 @@
+# typing
+typing-extensions
+
+opencv-python==4.4.0.46
+scipy

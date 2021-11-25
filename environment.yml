@@ -1,0 +1,14 @@
+name: stereo_rectification
+channels:
+  - defaults
+  - anaconda
+dependencies:
+  - python=3.6
+  - pip
+  - pip:
+      - -r requirements.txt
+
+      # environment tools
+      - black
+      - isort
+      - mypy
